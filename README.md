@@ -10,12 +10,12 @@ a 3rd year Computer Engineering Student @ University of Waterloo
   - Leading a team of 10 in developing a semantic search engine for video editors to cut down editing times by **40%**.
 
 **Software Engineer @ RedIron Technologies**
-  - Built a RAG chatbot end-to-end, cutting onboarding times by over **50%**. Adopted by **10+** internal teams and generating **$75k+ ARR**.
+  - Built a RAG chatbot end-to-end, cutting onboarding times by over **50%**. Adopted by **10+** teams and generating **$75k+ ARR**.
   - Design microservices processing **15TB+** of data, delivering insights into retail operations, saving customers **12%** annually.
 
 **Software Engineer @ RedIron Technologies**
   - Streamlined legacy UI/UX into modern and intuitive step-by-step flows, boosting user adoption rate by **25%**.
-  - Reduced server latency by **20%** by refactoring database schemas and caching, minimizing response times for over **2000 users** 
+  - Reduced peak server latency by **20%** by refactoring database schemas and adding caching layers
 
 **Data Analyst @ City of Mississauga**
   - Overhauled internal tooling by cutting down memory usage by **60%**, resulting in **$100,000** in savings and **7%** reduction in carbon emissions
