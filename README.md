@@ -18,7 +18,7 @@ a 3rd year Computer Engineering Student @ University of Waterloo
   - Reduced peak server latency by **20%** by refactoring database schemas and adding caching layers
 
 **Data Analyst @ City of Mississauga**
-  - Overhauled internal tooling by cutting down memory usage by **60%**, resulting in **$100,000** in savings and **7%** reduction in carbon emissions
+  - Overhauled internal tooling and cut memory usage by **60%**, resulting in **$100k** saved and **7%** reduction in citywide emissions
 
 <br>
 
