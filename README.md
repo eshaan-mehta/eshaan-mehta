@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Eshaan Mehta 
 
-a 3rd year Computer Engineering Student @ University of Waterloo**
+a 3rd year Computer Engineering Student @ University of Waterloo
 
 <br>
 
