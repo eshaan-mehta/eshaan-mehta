@@ -34,9 +34,14 @@ a 3rd year Computer Engineering Student @ University of Waterloo
 
 **Cloud/CICD:** Docker, Kubernetes, AWS, GCP, Jenkins, GitHub Actio
 
----
+<br>
 
-**Connect with me:**  
+## Hobbies/Interests
+Cooking, Lifting, Volleyball, Baseball, Badminton, Behavioural Psychology
+
+<br>
+
+## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/eshaan-mehta-136a6924b/) [Email](mailto:eshaanm.mehta@gmail.com)
 
 <!--
