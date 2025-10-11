@@ -8,7 +8,7 @@ a 3rd year Computer Engineering Student @ University of Waterloo
 
 **Technical Project Manager @ Wat.AI**
   - Leading a team of 10 in developing a semantic search engine for video editors to cut down editing times by **40%**.
-  - Check out our work [Here](https://github.com/orgs/clipabit/)
+  - Check out and find our most up-to-date work [here](https://github.com/orgs/clipabit/)!
 
 **Software Engineer @ RedIron Technologies**
   - Built a RAG chatbot end-to-end, cutting onboarding times by over **50%**. Adopted by **10+** teams and generating **$75k+ ARR**.
