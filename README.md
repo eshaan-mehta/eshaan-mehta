@@ -1,26 +1,31 @@
 # 👋 Hi there, I'm Eshaan Mehta 
 
-a 3rd year Computer Engineering Student @ University of Waterloo
-
+A 3rd year Computer Engineering Student @ University of Waterloo.
 <br>
 
 ## Experiences
+**Software Engineer Intern @ BitGo, Capital One**
+- Incoming Winter, Summer 2026 
 
 **Technical Project Manager @ Wat.AI**
-  - Leading a team of 10 in developing a semantic search engine for video editors to cut down editing times by **40%**.
+  - Leading a team of 10 in developing ClipABit, a semantic search engine for video editors to cut down editing times by **40%**.
   - Check out and find our most up-to-date work [here](https://github.com/orgs/clipabit/)!
 
-**Software Engineer @ RedIron Technologies**
+**Software Engineer Intern @ RedIron Technologies**
   - Built a RAG chatbot end-to-end, cutting onboarding times by over **50%**. Adopted by **10+** teams and generating **$75k+ ARR**.
   - Design microservices processing **15TB+** of data, delivering insights into retail operations, saving customers **12%** annually.
 
-**Software Engineer @ RedIron Technologies**
+**Software Engineer Intern @ RedIron Technologies**
   - Streamlined legacy UI/UX into modern and intuitive step-by-step flows, boosting user adoption rate by **25%**.
   - Reduced peak server latency by **20%** by refactoring database schemas and adding caching layers
 
-**Data Analyst @ City of Mississauga**
+**Data Analyst Intern @ City of Mississauga**
   - Overhauled internal tooling and cut memory usage by **60%**, resulting in **$100k** saved and **7%** reduction in citywide emissions
+<br>
 
+## What am I currently working on?
+- Leading the team in building ClipABit
+- Learning cloud/infra more in depth
 <br>
 
 ## Technical Skills:
