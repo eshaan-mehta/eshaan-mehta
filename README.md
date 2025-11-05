@@ -25,7 +25,8 @@ A 3rd year Computer Engineering Student @ University of Waterloo.
 
 ## What am I currently working on?
 - Leading the team in building ClipABit
-- Learning cloud/infra more in depth
+- Learning cloud/infra, AWS more in depth
+- Learning Rust
 <br>
 
 ## Technical Skills:
