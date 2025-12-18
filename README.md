@@ -56,7 +56,7 @@ Here are some of my favourite projects I think you should check out :)
 <br>
 
 ## Hobbies/Interests
-Cooking, Fitness, Volleyball, Baseball, Badminton, Spikeball, Behavioural Psychology
+Cooking, Fitness, Volleyball, Baseball, Badminton, Spikeball, Rubik's Cubes, Behavioural Psychology
 
 <br>
 
