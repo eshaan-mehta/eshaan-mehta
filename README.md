@@ -7,7 +7,7 @@ A 3rd year Computer Engineering Student @ University of Waterloo.
 **Software Engineer Intern @ Capital One**
 - Incoming Summer 2026
  
-**Software Engineer Intern @ BitGo**
+**Software Engineer Intern @ Stealth**
   - Building developer tooling and infrastructure using **Rust**, **Typescript** and serving over **125 million monthly API requests**
   
 **Technical Project Manager @ Wat.AI**
