@@ -49,9 +49,9 @@ A 4rd year Computer Engineering Student @ University of Waterloo.
 ## My Favourite projects
 
 Here are some of my favourite projects I think you should check out :)
+- [ClipABit: ](https://clipabit.web.app) A video editing plugin that enables you to search for specifc moments in your footage using natural language. Launching soon
 - [Vexor: ](https://github.com/eshaan-mehta/Vexor) An upgraded version of MacOS Spotlight Search that indexes your files and allows you to search for files on your computer using natural language.
 - [Phsyio AI:](https://github.com/eshaan-mehta/Physio-AI) A real-time computer-vision powered engine that helps physiotherapy patients with their recovery exercises.
-- [UWPinned: ](https://github.com/eshaan-mehta/UWPinned) A platform for university clubs to expand their outreach and for students to discover new clubs on campus.
 
 <br>
 
