@@ -4,11 +4,9 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 <br>
 
 ## Experiences
-**Software Engineer Intern @ Capital One**
-- Incoming Summer 2026
  
 **Software Engineer Intern @ Stealth**
-  - Building developer tooling and infrastructure using **Rust**, **Typescript** and serving over **125 million monthly API requests**
+  - Building developer tooling and monitioring services using **Rust**, **Typescript** and serving over **15 million daily API requests**
   
 **Technical Project Manager @ Wat.AI**
   - Leading a team of 10 in developing ClipABit, a semantic search engine to help video editors find key moments in their footage faster.
