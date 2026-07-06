@@ -4,12 +4,14 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 <br>
 
 ## Experiences
+
+
  
-**Software Engineer Intern @ Stealth**
-  - Building developer tooling and monitioring services using **Rust**, **Typescript** and serving over **15 million daily API requests**
+**Software Engineer Intern @ BitGo**
+  - Built developer tooling and monitioring services using **Rust**, **Typescript** and serving over **50 million daily API requests**
   
 **Technical Project Manager @ Wat.AI**
-  - Leading a team of 10 in developing ClipABit, a semantic search engine to help video editors find key moments in their footage faster.
+  - Led a team of 10 in developing ClipABit, a semantic search engine to help video editors find key moments in their footage faster.
   - Check out and find our most up-to-date work [here](https://github.com/orgs/clipabit/)!
 
 **Software Engineer Intern @ RedIron Technologies**
