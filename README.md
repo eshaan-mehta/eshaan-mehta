@@ -5,25 +5,24 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 
 ## Experiences
 
+**Software Engineer Intern @ Capital One**
+- AI legal document parsing engine for refinance applications
 
- 
 **Software Engineer Intern @ BitGo**
-  - Built developer tooling and monitioring services using **Rust**, **Typescript** and serving over **50 million daily API requests**
-  
+- Monitoring tooling for API traffic
+- Data pipelines for API observability
+
 **Technical Project Manager @ Wat.AI**
-  - Led a team of 10 in developing ClipABit, a semantic search engine to help video editors find key moments in their footage faster.
-  - Check out and find our most up-to-date work [here](https://github.com/orgs/clipabit/)!
+- Led a team of 10 in building ClipABit, helping video editors search through their footage using natural language
+- Check out and find our most up-to-date work [here](https://github.com/orgs/clipabit/)!
 
 **Software Engineer Intern @ RedIron Technologies**
-  - Built a RAG chatbot end-to-end, cutting onboarding times by over **50%**. Adopted by **10+** teams and generating **$75k+ ARR**.
-  - Design microservices processing **15TB+** of data, delivering insights into retail operations, saving customers **12%** annually.
-
-**Software Engineer Intern @ RedIron Technologies**
-  - Streamlined legacy UI/UX into modern and intuitive step-by-step flows, boosting user adoption rate by **25%**.
-  - Reduced peak server latency by **20%** by refactoring database schemas and adding caching layers
+- RAG Chatbots for enterprise search
+- Observability for retail POS
+- Making user workflows more intuitive
 
 **Data Analyst Intern @ City of Mississauga**
-  - Overhauled internal tooling and cut memory usage by **60%**, resulting in **$100k** saved and **7%** reduction in citywide emissions
+- Reducing energy consumption for city buildings
 <br>
 
 ## What am I currently working on?
