@@ -6,14 +6,14 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 ## Experiences
 
 **Software Engineer Intern @ Capital One**
-- AI legal document parsing engine for refinance applications
+- AI legal document processing engine for loan applications
 
 **Software Engineer Intern @ BitGo**
 - Monitoring tooling for API traffic
 - Data pipelines for API observability
 
 **Technical Project Manager @ Wat.AI**
-- Led a team of 10 in building ClipABit, helping video editors search through their footage using natural language
+- Building ClipABit, semantic search for video editors
 - Check out and find our most up-to-date work [here](https://github.com/orgs/clipabit/)!
 
 **Software Engineer Intern @ RedIron Technologies**
@@ -26,14 +26,13 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 <br>
 
 ## What am I currently working on?
-- Leading the team in building ClipABit
 - Learning cloud/infra, AWS more in depth
-- Learning Rust
+- Learning systems engineering
 <br>
 
 ## Technical Skills:
 
-**Languages/Technologies:** Python, C#, C, C++, JavaScript/TypeScript, Java, SQL, Terraform, Bash, Shell
+**Languages/Technologies:** Python, Rust, C, C++, C#, JavaScript/TypeScript, Java, SQL, Terraform, Bash, Shell
 
 **Frameworks and Libraries:** Flask, FastAPI, .NET, React.js, Node.js, Express.js, Next.js, Spring Boot, GraphQL
 
@@ -48,7 +47,7 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 ## My Favourite projects
 
 Here are some of my favourite projects I think you should check out :)
-- [ClipABit: ](https://clipabit.web.app) A video editing plugin that enables you to search for specifc moments in your footage using natural language. Launching soon
+- [ClipABit: ](https://clipabit.web.app) Search for specific moments in your footage using natural language.
 - [Vexor: ](https://github.com/eshaan-mehta/Vexor) An upgraded version of MacOS Spotlight Search that indexes your files and allows you to search for files on your computer using natural language.
 - [Phsyio AI:](https://github.com/eshaan-mehta/Physio-AI) A real-time computer-vision powered engine that helps physiotherapy patients with their recovery exercises.
 
