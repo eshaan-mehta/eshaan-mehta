@@ -48,13 +48,13 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 
 Here are some of my favourite projects I think you should check out :)
 - [ClipABit: ](https://clipabit.web.app) Search for specific moments in your footage using natural language.
-- [Vexor: ](https://github.com/eshaan-mehta/Vexor) An upgraded version of MacOS Spotlight Search that indexes your files and allows you to search for files on your computer using natural language.
-- [Phsyio AI:](https://github.com/eshaan-mehta/Physio-AI) A real-time computer-vision powered engine that helps physiotherapy patients with their recovery exercises.
+- [Vexor: ](https://github.com/eshaan-mehta/Vexor) Semantic file search directly in macOS Spotlight (pre macOS Tahoe)
+- [Phsyio AI:](https://github.com/eshaan-mehta/Physio-AI) A real-time AI excercise assistant for physiotherapy patients.
 
 <br>
 
 ## Hobbies/Interests
-Cooking, Fitness, Volleyball, Baseball, Badminton, Spikeball, Rubik's Cubes, Behavioural Psychology
+Cooking, Fitness, Volleyball, Baseball, Badminton, Spikeball, Rubik's Cubes, Psychology
 
 <br>
 
