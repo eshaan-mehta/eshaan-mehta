@@ -5,6 +5,9 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 
 ## Experiences
 
+**AI Evals @ Mechanize Inc.**
+- Making frontier models better at coding
+
 **Software Engineer Intern @ Capital One**
 - AI legal document processing engine for loan applications
 
@@ -12,7 +15,7 @@ A 4th year Computer Engineering Student @ University of Waterloo.
 - Monitoring tooling for API traffic
 - Data pipelines for API observability
 
-**Technical Project Manager @ Wat.AI**
+**Engineering Lead @ Wat.AI**
 - Building ClipABit, semantic search for video editors
 - Check out and find our most up-to-date work [here](https://github.com/orgs/clipabit/)!
 
